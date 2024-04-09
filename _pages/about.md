@@ -23,8 +23,8 @@ My research interest includes neural machine translation and computer vision. I 
 
 
 # 📖 Educations
-- *2022.08 - 2022.06*, Southern University of Science and Technology. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2018.08 - 2022.06*, Southwesten University of Finance and Economics, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022.08 - 2024.06*, M.S. in Southern University of Science and Technology, Mathmatics.
+- *2018.08 - 2022.06*, B.S. in Southwesten University of Finance and Economics, Finance.
 
 # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
