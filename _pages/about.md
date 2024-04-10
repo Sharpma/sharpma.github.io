@@ -17,17 +17,16 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a second--year M.S. student at SUSTech, supervisod
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+I am currently a second--year M.S. student in [Department of STAT-DS](https://stat-ds.sustech.edu.cn/) at SUSTech, under the supervision of [Prof. Qi-Man Shao](https://faculty.sustech.edu.cn/shaoqm). Previously I got my bachelor’s degree from Southwestern University of Finance and Economics. My research interests are econometric theory and it's application in real worlds. 
+
+# 🏫 Educations
+- *2022.08 - 2024.06*, M.S.  Southern University of Science and Technology, Probability Theory and Statistics.
+- *2018.08 - 2022.06*, B.S.  Southwestern University of Finance and Economics, Finance.
 
 
-# 📖 Educations
-- *2022.08 - 2024.06*, M.S. in Southern University of Science and Technology, Mathmatics.
-- *2018.08 - 2022.06*, B.S. in Southwesten University of Finance and Economics, Finance.
+# 🎓 Thesis
 
-# 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+# 📑 Republication
 
 # 📝 Publications 
 
