@@ -22,8 +22,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Fengli Ma"
-  avatar           : "images/selfphoto.png"
-  bio              : "Lorem ipsum College"
+  avatar           : "images/selfphoto.jpg"
+  bio              : 
   location         : "Shenzhen, China"
   employer         :
   pubmed           : 
