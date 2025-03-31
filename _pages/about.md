@@ -17,22 +17,22 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a second--year M.S. student in [Department of STAT-DS](https://stat-ds.sustech.edu.cn/) at SUSTech, under the supervision of [Prof. Qi-Man Shao](https://faculty.sustech.edu.cn/shaoqm). Previously I got my bachelor’s degree from Southwestern University of Finance and Economics. My research interests are econometric theory and it's application in real worlds. 
+I am currently a Ph.D. student at Zhejiang University, under supervision of Prof. [Wenyu Zhou](https://person.zju.edu.cn/wenyuzhou). Previously, I obtain my M.S. degree from [Department of STAT-DS](https://stat-ds.sustech.edu.cn/) at SUSTech, under the supervision of [Prof. Qi-Man Shao](https://faculty.sustech.edu.cn/shaoqm) and bachelor’s degree from Southwestern University of Finance and Economics. My research interests are econometric theory and empirical asset pricing. 
 
 # 🏫 Educations
-- *2024.05 - present*, Ph.D. Student, Zhejiang University, Econometrics, Asset Pricing.
-- *2022.08 - 2024.06*, M.S.  Southern University of Science and Technology, Probability Theory and Statistics.
-- *2018.08 - 2022.06*, B.S.  Southwestern University of Finance and Economics, Finance.
+- *2024.05 - present*, Ph.D. Student, Zhejiang University, Econometrics Theory, Asset Pricing.
+- *2022.08 - 2024.06*, M.S.  Southern University of Science and Technology, Probability Limitation Theory and Statistics.
+- *2018.08 - 2022.06*, B.S.  Southwestern University of Finance and Economics, Finance and AI.
 
 
 # 🎓 Thesis
 
-# 📑 Republication
 
 # 📝 Publications 
+-  I'm working hard...🧑‍💻🧑‍💻🧑‍💻
 
 # 🎖 Honors and Awards
-- *2019.05* First Prize of the Chinese Poetry Competition at SWUFE
+- *2019.05*  Champion of the Chinese Poetry Competition at SWUFE
 
 
 # 💻 Internships
