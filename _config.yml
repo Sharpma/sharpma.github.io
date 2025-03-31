@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Fengli Ma"
-description              : " M.S. student at SUSTech "
+description              : " Ph.D. student at ZJU "
 repository               : "RayeRen/acad-homepage.github.io"
 google_scholar_stats_use_cdn : false
 
@@ -28,7 +28,7 @@ author:
   employer         :
   pubmed           : 
   googlescholar    : 
-  email            : "12232871@mail.sustech.edu.com"
+  email            : "mafl@zju.edu.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -53,7 +53,7 @@ author:
   tumblr           :
   twitter          : 
   vine             :
-  weibo            :
+  weibo            :"https://m.weibo.cn/u/3954080559"
   xing             :
   youtube          :
   wikipedia        :
