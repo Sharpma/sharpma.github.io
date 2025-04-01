@@ -32,7 +32,7 @@ I am currently a Ph.D. student at Zhejiang University, under supervision of Prof
 -  I'm working hard...🧑‍💻🧑‍💻🧑‍💻
 
 
-# 📝 Teaching Experiences
+# 🧑‍🏫 Teaching Experiences
 - *2023.9 - 2024.1*, Tutorial TA, Foundation of Probability Theory, SUSTech.
 - *2023.2 - 2023.7*, TA, Bayes Statistics, SUSTech.
 
