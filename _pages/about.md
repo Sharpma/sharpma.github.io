@@ -28,7 +28,7 @@ I am currently a Ph.D. student at Zhejiang University, under the supervision of 
 # 🎓 Thesis
 - Distuirbuted Statistical Inference of Weighted Statistics under Heterogenity
   
-  M.Sc Thesis, *SUSTech* [[Link](https://kc.sustech.edu.cn/handle/2SGJ60CL/778739?mode=full&submit_simple=Show+full+item+record)]
+  Shenzhen, *SUSTech*, 2024 [[Link](https://kc.sustech.edu.cn/handle/2SGJ60CL/778739?mode=full&submit_simple=Show+full+item+record)]
 
 # 📝 Publications 
 -  I'm working hard...🧑‍💻🧑‍💻🧑‍💻
@@ -46,4 +46,4 @@ I am currently a Ph.D. student at Zhejiang University, under the supervision of 
 
 # 💻 Internships
 - *2023.04 - 2023.07*, The PHBS Think Tank, Shenzhen.
-- *2019.06 - 2019.09*, survey and Research Center for China Household Finance, Chengdu.
+- *2019.06 - 2019.09*, Survey and Research Center for China Household Finance, Chengdu.
