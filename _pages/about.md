@@ -35,6 +35,7 @@ I am currently a Ph.D. student at Zhejiang University, under the supervision of 
 
 
 # 🧑‍🏫 Teaching Experiences
+- *2025.9 - 2026.1*, TA, Financial Econometrics, ZJU.
 - *2023.9 - 2024.1*, Tutorial TA, Foundation of Probability Theory, SUSTech.
 - *2023.2 - 2023.7*, TA, Bayes Statistics, SUSTech.
 
