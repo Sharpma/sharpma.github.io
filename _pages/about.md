@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a Ph.D. student at Zhejiang University, under the supervision of Prof. [Wenyu Zhou](https://person.zju.edu.cn/wenyuzhou). In addition, I work closely with Prof. [ Zhuosong Zhang](https://zhuosongz.github.io/). Previously, I obtain my M.S. degree from [Department of STAT-DS](https://stat-ds.sustech.edu.cn/) at SUSTech, under the supervision of [Prof. Qi-Man Shao](https://faculty.sustech.edu.cn/shaoqm) and bachelor’s degree from Southwestern University of Finance and Economics. My research interests are econometrics theory and empirical asset pricing. 
+I am currently a Ph.D. student at Zhejiang University, under the supervision of Prof. [Wenyu Zhou](https://person.zju.edu.cn/wenyuzhou). In addition, I work closely with Prof. [ Zhuosong Zhang](https://zhuosongz.github.io/). Previously, I obtain my M.S. degree from [Department of STAT-DS](https://stat-ds.sustech.edu.cn/) at SUSTech, under the supervision of [Prof. Qi-Man Shao](https://faculty.sustech.edu.cn/shaoqm) and bachelor’s degree from Southwestern University of Finance and Economics. My research interests include econometrics theory and empirical asset pricing. 
 
 # 🏫 Educations
 - *2024.05 - present*, Ph.D. Student, Zhejiang University, Econometrics Theory, Asset Pricing.
