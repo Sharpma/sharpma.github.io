@@ -20,7 +20,7 @@ redirect_from:
 I am currently a Ph.D. student at Zhejiang University, under the supervision of Prof. [Wenyu Zhou](https://person.zju.edu.cn/wenyuzhou). In addition, I work closely with Prof. [ Zhuosong Zhang](https://zhuosongz.github.io/). Previously, I obtain my M.S. degree from [Department of STAT-DS](https://stat-ds.sustech.edu.cn/) at SUSTech, under the supervision of [Prof. Qi-Man Shao](https://faculty.sustech.edu.cn/shaoqm) and bachelor’s degree from Southwestern University of Finance and Economics. My research interests include econometrics theory and empirical asset pricing. 
 
 # 🏫 Educations
-- *2024.05 - present*, Ph.D. Student, Zhejiang University, Econometrics Theory, Asset Pricing.
+- *2024.05 - present*, Ph.D. Student and Pre-doc, Zhejiang University, Econometrics Theory, Asset Pricing.
 - *2022.08 - 2024.06*, M.S.  Southern University of Science and Technology, Probability Limitation Theory and Statistics.
 - *2018.08 - 2022.06*, B.S.  Southwestern University of Finance and Economics, Finance and AI.
 
@@ -35,9 +35,9 @@ I am currently a Ph.D. student at Zhejiang University, under the supervision of 
 
 
 # 🧑‍🏫 Teaching Experiences
-- *2025.9 - 2026.1*, TA, Financial Econometrics, ZJU.
-- *2023.9 - 2024.1*, Tutorial TA, Foundation of Probability Theory, SUSTech.
-- *2023.2 - 2023.7*, TA, Bayes Statistics, SUSTech.
+- *2025.9 - 2026.1*, TA, Financial Econometrics, *ZJU*.
+- *2023.9 - 2024.1*, TA with Tutorial , Foundation of Probability Theory, *SUSTech*.
+- *2023.2 - 2023.7*, TA, Bayes Statistics, *SUSTech*.
 
 
 
