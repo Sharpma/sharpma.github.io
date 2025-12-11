@@ -38,7 +38,7 @@ I am currently a Ph.D. student at Zhejiang University, under the supervision of 
 - *2025.11*, China Tech-Fin Research Conference, *Presenter*
 - *2024.12*, ZIBS Doctoral Student Forum, *Host*
 
-# 🧑‍🏫 Teaching  Experiences
+# 🧑‍🏫 Teaching Experiences
 - *2025.9 - 2026.1*, TA, Machine Learning in Finance, *ZJU*.
 - *2025.9 - 2026.1*, TA, Econometrics, *ZJU*.
 - *2023.9 - 2024.1*, TA with Tutorial , Foundation of Probability Theory, *SUSTech*.
