@@ -30,9 +30,14 @@ I am currently a Ph.D. student at Zhejiang University, under the supervision of 
   
   Shenzhen, *SUSTech*, 2024 [[Link](https://kc.sustech.edu.cn/handle/2SGJ60CL/778739?mode=full&submit_simple=Show+full+item+record)]
 
-# 📝 Publications 
+# 📜 Publications 
 -  I'm working hard...🧑‍💻🧑‍💻🧑‍💻
 
+# 📝 Working Paper
+
+- Multi-Factor Asset Pricing via Model-Averaging, with Moyu Liao[https://liaomoyu.weebly.com/] and Wenyu Zhou[https://person.zju.edu.cn/wenyuzhou]
+
+- 中国A股市场量化基金的投资表现，合作者：周闻宇，王逸安，黄文礼
 
 # 💬 Talks and Conferences
 - *2025.11*, China Tech-Fin Research Conference, *Presenter*
