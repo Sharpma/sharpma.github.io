@@ -35,7 +35,7 @@ I am currently a Ph.D. student at Zhejiang University, under the supervision of 
 
 # 📝 Working Paper
 
-- Multi-Factor Asset Pricing via Model-Averaging, with [Moyu Liao](https://liaomoyu.weebly.com/) and [Wenyu Zhou](https://person.zju.edu.cn/wenyuzhou)
+- Multi-Factor Asset Pricing via Model-Averaging, with [Moyu Liao](https://liaomoyu.weebly.com/) and [Wenyu Zhou](https://person.zju.edu.cn/wenyuzhou) [[link](docs/MMA_cover.png)]
 
 - 中国A股市场量化基金的投资表现，合作者：周闻宇，王逸安，黄文礼
 
