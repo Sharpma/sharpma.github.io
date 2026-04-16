@@ -39,6 +39,8 @@ I am currently a Ph.D. student at Zhejiang University, under the supervision of 
 
 - Multi-Factor Asset Pricing via Model-Averaging [[Link](https://www.jianguoyun.com/p/DbF1rJUQ0KLMDRjXyaQGIAA)],  with [Moyu Liao](https://liaomoyu.weebly.com/) and [Wenyu Zhou](https://person.zju.edu.cn/wenyuzhou) 
 
+- 谁在创造Alpha？中国A股市场不同类型基金的绩效分化研究, 合作者: [高明](http://scholar.pku.edu.cn/gao),周闻宇,高栋
+
 - 中国A股市场量化基金的投资表现,合作者:周闻宇,王逸安,黄文礼
 
 # 💬 Talks and Conferences
