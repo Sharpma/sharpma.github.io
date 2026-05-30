@@ -41,7 +41,7 @@ I am currently a Ph.D. student at Zhejiang University, under the supervision of 
 
 - 谁在创造Alpha？中国A股市场不同类型基金的绩效分化研究, 合作者: [高明](http://scholar.pku.edu.cn/gao),周闻宇,高栋
 
-- 中国A股市场量化基金的投资表现,合作者:周闻宇,王逸安,黄文礼. Under Review at ***Journal of Empirical Finance***.
+- The Performance of Quantitative Hedge Funds in China, with [Wenyu Zhou](https://person.zju.edu.cn/wenyuzhou), Yian Wang, and Wenli Huang. Under Review at ***Journal of Empirical Finance***.
 
 # 💬 Talks and Conferences
 - *2025.11*, China Tech-Fin Research Conference, *Presenter*
