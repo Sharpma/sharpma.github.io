@@ -59,3 +59,10 @@ I am currently a Ph.D. student at Zhejiang University, under the supervision of 
 - *2023.9 - 2024.1*, TA with Tutorial , Foundation of Probability Theory, *SUSTech*.
 - *2023.2 - 2023.7*, TA, Bayes Statistics, *SUSTech*.
 
+# 🎖 Honors and Awards
+- *2019.05*  Champion of the Chinese Poetry Competition at SWUFE
+
+# 💻 Internships
+- *2023.04 - 2023.07*, The PHBS Think Tank, Shenzhen.
+- *2019.06 - 2019.09*, Survey and Research Center for China Household Finance, Chengdu.
+
