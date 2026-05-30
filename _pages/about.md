@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a Ph.D. student at Zhejiang University, under the supervision of Prof. [Wenyu Zhou](https://person.zju.edu.cn/wenyuzhou). In addition, I work closely with Prof. [ Zhuosong Zhang](https://zhuosongz.github.io/). Previously, I obtain my M.S. degree from [Department of STAT-DS](https://stat-ds.sustech.edu.cn/) at SUSTech, under the supervision of [Prof. Qi-Man Shao](https://faculty.sustech.edu.cn/shaoqm) and bachelor’s degree from Southwestern University of Finance and Economics. My research interests include econometrics theory and empirical asset pricing. 
+I am currently a Ph.D. student at Zhejiang University, under the supervision of Prof. [Wenyu Zhou](https://person.zju.edu.cn/wenyuzhou). In addition, I work closely with Prof. [ Zhuosong Zhang](https://zhuosongz.github.io/). Previously, I obtain my M.S. degree from [Department of STAT-DS](https://stat-ds.sustech.edu.cn/) at SUSTech, under the supervision of [Prof. Qi-Man Shao](https://faculty.sustech.edu.cn/shaoqm) and bachelor’s degree from Southwestern University of Finance and Economics. My research interests include econometrics theory, statisctial method and LLM in  asset pricing. 
 
 # 🏫 Educations
 - *2024.05 - present*, Ph.D. Student and Pre-doc, Zhejiang University, Econometrics Theory, Asset Pricing.
@@ -37,11 +37,11 @@ I am currently a Ph.D. student at Zhejiang University, under the supervision of 
 
 - Nonlinear IPCA with Instrument Selection, with [Qiuhua Xu](https://jinrong.swufe.edu.cn/info/2039/23537.htm) and Qi Zhang 
 
-- Multi-Factor Asset Pricing via Model-Averaging [[Link](paper/Modeling_Averaging_Multi_Factor_Models.pdf)], with [Moyu Liao](https://liaomoyu.weebly.com/) and [Wenyu Zhou](https://person.zju.edu.cn/wenyuzhou). Submitted to ***Management Science***.
+- Multi-Factor Asset Pricing via Model-Averaging [[Link](https://www.jianguoyun.com/p/DbF1rJUQ0KLMDRjXyaQGIAA)], with [Moyu Liao](https://liaomoyu.weebly.com/) and [Wenyu Zhou](https://person.zju.edu.cn/wenyuzhou). Under Review at ***Journal of Financial Econometrics***. [[pdf]](/paper/Modeling_Averaging_Multi_Factor_Models.pdf)
 
 - 谁在创造Alpha？中国A股市场不同类型基金的绩效分化研究, 合作者: [高明](http://scholar.pku.edu.cn/gao),周闻宇,高栋
 
-- 中国A股市场量化基金的投资表现,合作者:周闻宇,王逸安,黄文礼
+- 中国A股市场量化基金的投资表现,合作者:周闻宇,王逸安,黄文礼. Under Review at ***Journal of Empirical Finance***.
 
 # 💬 Talks and Conferences
 - *2025.11*, China Tech-Fin Research Conference, *Presenter*
@@ -53,12 +53,3 @@ I am currently a Ph.D. student at Zhejiang University, under the supervision of 
 - *2023.9 - 2024.1*, TA with Tutorial , Foundation of Probability Theory, *SUSTech*.
 - *2023.2 - 2023.7*, TA, Bayes Statistics, *SUSTech*.
 
-
-
-# 🎖 Honors and Awards
-- *2019.05*  Champion of the Chinese Poetry Competition at SWUFE
-
-
-# 💻 Internships
-- *2023.04 - 2023.07*, The PHBS Think Tank, Shenzhen.
-- *2019.06 - 2019.09*, Survey and Research Center for China Household Finance, Chengdu.
