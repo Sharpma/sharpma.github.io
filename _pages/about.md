@@ -35,6 +35,9 @@ I am currently a Ph.D. student at Zhejiang University, under the supervision of 
 
 # 📝 Working Papers
 
+- Benign Overfitting in Conditional Factor Model, with Qiuhua Xu and Wenyu Zhou
+
+
 - Nonlinear IPCA with Instrument Selection, with [Qiuhua Xu](https://jinrong.swufe.edu.cn/info/2039/23537.htm) and Qi Zhang 
 
 
