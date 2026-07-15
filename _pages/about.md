@@ -44,7 +44,7 @@ I am currently a Ph.D. student at Zhejiang University, under the supervision of 
 - Multi-Factor Asset Pricing via Model-Averaging [[Link](https://www.jianguoyun.com/p/DbF1rJUQ0KLMDRjXyaQGIAA)], with [Moyu Liao](https://liaomoyu.weebly.com/) and [Wenyu Zhou](https://person.zju.edu.cn/wenyuzhou). Under Review at ***Journal of Financial Econometrics***. [[pdf]](/paper/Modeling_Averaging_Multi_Factor_Models.pdf)
   
 
-- The Performance of Quantitative Hedge Funds in China, with Wenli Huang, Yian Wang and [Wenyu Zhou](https://person.zju.edu.cn/wenyuzhou). Under Review at ***Journal of Empirical Finance***.
+- The Performance of Quantitative Hedge Funds in China, with Wenli Huang, Yian Wang and [Wenyu Zhou](https://person.zju.edu.cn/wenyuzhou). Revise and Resubmit at ***Journal of Empirical Finance***.
 
 
 - 谁在创造Alpha？中国A股市场不同类型基金的绩效分化研究, 合作者: [高明](http://scholar.pku.edu.cn/gao),周闻宇,高栋. *资本市场研究* 返修中.
