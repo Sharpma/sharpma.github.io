@@ -41,7 +41,7 @@ I am currently a Ph.D. student at Zhejiang University, under the supervision of 
 - Nonlinear IPCA with Instrument Selection, with [Qiuhua Xu](https://jinrong.swufe.edu.cn/info/2039/23537.htm) and Qi Zhang 
 
 
-- Multi-Factor Asset Pricing via Model-Averaging [[Link](https://www.jianguoyun.com/p/DbF1rJUQ0KLMDRjXyaQGIAA)], with [Moyu Liao](https://liaomoyu.weebly.com/) and [Wenyu Zhou](https://person.zju.edu.cn/wenyuzhou). Under Review at ***Journal of Financial Econometrics***. [[pdf]](/paper/Modeling_Averaging_Multi_Factor_Models.pdf)
+- Multi-Factor Asset Pricing via Model-Averaging [[Link](https://www.jianguoyun.com/p/DbF1rJUQ0KLMDRjXyaQGIAA)], with [Moyu Liao](https://liaomoyu.weebly.com/) and [Wenyu Zhou](https://person.zju.edu.cn/wenyuzhou). Revise and Resubmit at ***Journal of Financial Econometrics***. [[pdf]](/paper/Modeling_Averaging_Multi_Factor_Models.pdf)
   
 
 - The Performance of Quantitative Hedge Funds in China, with Wenli Huang, Yian Wang and [Wenyu Zhou](https://person.zju.edu.cn/wenyuzhou). Revise and Resubmit at ***Journal of Empirical Finance***.
