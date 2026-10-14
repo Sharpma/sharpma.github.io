@@ -1,0 +1,146 @@
+%----------------------------------------------------------------------------------------
+% Chinese academic CV for Fengli Ma
+%----------------------------------------------------------------------------------------
+\documentclass[11pt, a4paper]{article}
+
+\usepackage[margin=0.9in, top=0.65in, bottom=0.65in]{geometry}
+\pagestyle{empty}
+\usepackage{fontspec}
+\usepackage{xeCJK}
+\setCJKmainfont[Script=CJK]{Heiti SC}
+\setCJKsansfont[Script=CJK]{Heiti SC}
+\setCJKmonofont[Script=CJK]{Heiti SC}
+\usepackage{microtype}
+\usepackage{hyperref}
+\usepackage{xcolor}
+\usepackage{enumitem}
+\usepackage{titlesec}
+\usepackage{parskip}
+\usepackage{array}
+\usepackage{tabularx}
+\usepackage{booktabs}
+
+% Hyperlink style
+\definecolor{linkblue}{RGB}{0, 70, 160}
+\hypersetup{
+  colorlinks=true,
+  urlcolor=linkblue,
+  linkcolor=linkblue,
+  pdftitle={\texorpdfstring{Fengli Ma 中文学术简历}{Chinese Academic CV -- Fengli Ma}},
+  pdfauthor={Fengli Ma}
+}
+
+% Section formatting
+\titleformat{\section}
+  {\Large\bfseries}
+  {}
+  {0em}
+  {}
+  [\titlerule]
+\titlespacing{\section}{0pt}{10pt}{6pt}
+
+% No paragraph indent
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{3pt}
+
+% List settings
+\setlist[itemize]{leftmargin=1.5em, parsep=0pt}
+
+%----------------------------------------------------------------------------------------
+\begin{document}
+
+%----------------------------------------------------------------------------------------
+% HEADER
+%----------------------------------------------------------------------------------------
+\begin{center}
+  {\LARGE\bfseries 马锋利}\\[6pt]
+  \href{mailto:mafl@zju.edu.cn}{\textcolor{black}{mafl@zju.edu.cn}}\hspace{2.5em}
+  \href{tel:+8618306781697}{\textcolor{black}{+86 18306781697}}\hspace{2.5em}
+  \href{https://sharpma.github.io}{\textcolor{black}{个人主页}}
+\end{center}
+
+%----------------------------------------------------------------------------------------
+% EDUCATION
+%----------------------------------------------------------------------------------------
+\section{教育背景}
+
+\begin{itemize}[itemsep=5pt, topsep=5pt]
+  \item \textbf{浙江大学}，博士研究生 \hfill 2025.09 -- 至今\\[4pt]
+    专业：金融学；导师：\href{https://person.zju.edu.cn/wenyuzhou}{\textcolor{black}{周闻宇助理教授}}
+
+  \item \textbf{南方科技大学}，理学硕士 \hfill 2022.08 -- 2024.06\\[4pt]
+    专业：数学；导师：\href{https://faculty.sustech.edu.cn/shaoqm}{\textcolor{black}{邵启满教授}}
+
+  \item \textbf{西南财经大学}，经济学学士 \hfill 2018.08 -- 2022.06\\[4pt]
+    专业：金融学与人工智能实验班；导师：\href{https://jinrong.swufe.edu.cn/info/2039/23537.htm}{\textcolor{black}{徐秋华教授}}
+\end{itemize}
+
+%----------------------------------------------------------------------------------------
+% WORKING PAPERS
+%----------------------------------------------------------------------------------------
+\section{工作论文}
+
+\begin{itemize}[itemsep=5pt, topsep=5pt]
+
+
+  \item \textbf{Benign Overfitting in Conditional Factor Models}\\[4pt]
+    with Qiuhua Xu and Wenyu Zhou. Under Review at \textit{Journal of Econometrics}.
+
+  \item \textbf{Relevance-Based Forecasting with Partial-Sample Regression}\\[4pt]
+    with {Moyu Liao} and
+    {Wenyu Zhou}.
+    Under Review at \textit{Journal of the American Statistical \mbox{Association}}.
+
+  \item \textbf{Multi-Factor Asset Pricing via Model-Averaging}
+    \href{https://www.jianguoyun.com/p/DbF1rJUQ0KLMDRjXyaQGIAA}{[Link]}\\[4pt]
+    with \href{https://liaomoyu.weebly.com/}{Moyu Liao} and
+    \href{https://person.zju.edu.cn/wenyuzhou}{Wenyu Zhou}.
+    R\&R at \textit{Journal of Financial Econometrics}.  
+
+  \item \textbf{The Performance of Quantitative Hedge Funds in China}\\[4pt]
+    with Wenli Huang, Yian Wang, and Wenyu Zhou.
+    R\&R at \textit{Journal of Empirical Finance}.
+
+  \item \textbf{Nonlinear IPCA with Instrument Selection}
+    \href{https://www.jianguoyun.com/p/Ddb63f0QyMuCDhjdsKkGIAA}{[Link]}\\[4pt]
+    with \href{https://jinrong.swufe.edu.cn/info/2039/23537.htm}{Qiuhua Xu} and Qi Zhang.
+
+  \item \textbf{谁在创造Alpha？中国A股市场不同类型基金的绩效分化研究}\\[4pt]
+    合作者：\href{http://scholar.pku.edu.cn/gao}{高明}、周闻宇、高栋。 《资本市场研究》返修中。  
+
+\end{itemize}
+
+%----------------------------------------------------------------------------------------
+% TALKS AND CONFERENCES
+%----------------------------------------------------------------------------------------
+\section{学术会议与报告}
+
+\begin{itemize}[itemsep=5pt, topsep=5pt]
+  \item \textit{Annual Conference of the Greater Bay Econometrics Study Group} \hfill 2026.10
+  \item \textit{International Conference on Machine Learning in Finance and Econometrics} \hfill 2026.06
+  \item \textit{China Tech-Fin Research Conference} \hfill 2025.11
+\end{itemize}
+
+%----------------------------------------------------------------------------------------
+% TEACHING EXPERIENCE
+%----------------------------------------------------------------------------------------
+\section{教学经历}
+
+\begin{itemize}[itemsep=5pt, topsep=5pt]
+  \item 助教，\textit{金融机器学习}，浙江大学 \hfill 2026.9 -- 2027.1
+  \item 助教，\textit{计量经济学}，浙江大学 \hfill 2026.9 -- 2027.1
+  \item 助教，\textit{金融机器学习}，浙江大学 \hfill 2025.9 -- 2026.1
+  \item 助教，\textit{计量经济学}，浙江大学 \hfill 2025.9 -- 2026.1
+  \item 助教，\textit{概率论基础}，南方科技大学 \hfill 2023.9 -- 2024.1
+  \item 助教，\textit{贝叶斯统计}，南方科技大学 \hfill 2023.2 -- 2023.7
+\end{itemize}
+
+\section{工作经历}
+
+\begin{itemize}[itemsep=5pt, topsep=5pt]
+  \item 浙江大学国际联合商学院，研究助理 \hfill 2024.5 -- 2025.7
+  \item 北京大学汇丰商学院智库，实习生 \hfill 2024.7 -- 2024.8
+  \item 中国家庭金融调查与研究中心，实习生 \hfill 2023.7 -- 2023.8
+\end{itemize}
+
+\end{document}
