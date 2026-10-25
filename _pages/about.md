@@ -47,17 +47,22 @@ I am currently a Ph.D. student at Zhejiang University, under the supervision of 
 - The Performance of Quantitative Hedge Funds in China, with Wenli Huang, Yian Wang and [Wenyu Zhou](https://person.zju.edu.cn/wenyuzhou). Revise and Resubmit at ***Journal of Empirical Finance***.
 
 
+- Exact GRS Inference with Redundant Test Assets, with [Wenyu Zhou](https://person.zju.edu.cn/wenyuzhou) and Shu Chen. Revise and Resubmit at ***Economics Letters***.
+
+
 - 谁在创造Alpha？中国A股市场不同类型基金的绩效分化研究, 合作者: [高明](http://scholar.pku.edu.cn/gao),周闻宇,高栋. *资本市场研究* 返修中.
 
 
 
 # 💬 Talks and Conferences
-- *2026.10*, Annual Meeting of Young Econometricians in Asia-Pacific (YEAP)
+- *2026.10*, Annual Meeting of Young Econometricians in Asia-Pacific (YEAP), *Presenter*
+- *2026.10*, Annual Conference of the Greater Bay Econometrics Study Group, *Presenter*
 - *2026.06*, International Conference on Machine Learning in Finance and Econometrics, *Presenter*
 - *2025.11*, China Tech-Fin Research Conference, *Presenter*
 - *2024.12*, ZIBS Doctoral Student Forum, *Host*
 
 # 🧑‍🏫 Teaching Experiences
+- *2026.9 - 2027.1*, TA, Machine Learning in Finance, *ZJU*.
 - *2025.9 - 2026.1*, TA, Machine Learning in Finance, *ZJU*.
 - *2025.9 - 2026.1*, TA, Econometrics, *ZJU*.
 - *2023.9 - 2024.1*, TA with Tutorial , Foundation of Probability Theory, *SUSTech*.
