@@ -35,7 +35,7 @@ I am currently a Ph.D. student at Zhejiang University, under the supervision of 
 
 # 📝 Working Papers
 
-- Benign Overfitting in Conditional Factor Model, with Qiuhua Xu and Wenyu Zhou
+- Benign Overfitting in Conditional Factor Models, with Qiuhua Xu and Wenyu Zhou. Under Review at ***Journal of Econometrics***.
 
 
 - Nonlinear IPCA with Instrument Selection, with [Qiuhua Xu](https://jinrong.swufe.edu.cn/info/2039/23537.htm) and Qi Zhang 
@@ -52,6 +52,7 @@ I am currently a Ph.D. student at Zhejiang University, under the supervision of 
 
 
 # 💬 Talks and Conferences
+- *2026.10*, Annual Meeting of Young Econometricians in Asia-Pacific (YEAP)
 - *2026.06*, International Conference on Machine Learning in Finance and Econometrics, *Presenter*
 - *2025.11*, China Tech-Fin Research Conference, *Presenter*
 - *2024.12*, ZIBS Doctoral Student Forum, *Host*
